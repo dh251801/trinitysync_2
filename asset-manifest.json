@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trinitysync_2/static/css/main.f855e6bc.css",
+    "main.js": "/trinitysync_2/static/js/main.800b7471.js",
+    "static/js/453.81e9cad2.chunk.js": "/trinitysync_2/static/js/453.81e9cad2.chunk.js",
+    "static/media/TrinitySyncLogo.png": "/trinitysync_2/static/media/TrinitySyncLogo.1ce2e476a851cf8fdf1f.png",
+    "index.html": "/trinitysync_2/index.html",
+    "main.f855e6bc.css.map": "/trinitysync_2/static/css/main.f855e6bc.css.map",
+    "main.800b7471.js.map": "/trinitysync_2/static/js/main.800b7471.js.map",
+    "453.81e9cad2.chunk.js.map": "/trinitysync_2/static/js/453.81e9cad2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.800b7471.js"
+  ]
+}
